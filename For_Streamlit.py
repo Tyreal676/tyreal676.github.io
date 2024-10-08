@@ -107,7 +107,7 @@ The_final_extraction = The_final_merge[['track_name', 'artist.s._name', 'streams
 print(The_final_extraction)
 
 # %%
-pip~install sqlitecloud
+$ pip install sqlitecloud
 
 # %%
 import io
