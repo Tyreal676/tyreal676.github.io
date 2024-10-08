@@ -134,8 +134,10 @@ pip install streamlit
 # %%
 import streamlit as st
  
+st.title('Most streamed songs on Spotify')
 
 # %%
+@st.cache_data
 st.bar_chart(data=Double_checking, x='track_name', y='streams', x_label='Name of track', y_label='Number of streams', color= None, horizontal=False, stack=False, width=False,
 height=False, use_container_width=True)
 
