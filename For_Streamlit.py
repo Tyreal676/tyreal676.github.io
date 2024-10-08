@@ -2,7 +2,7 @@
 import pandas as pd
 
 # %%
-https://drive.google.com/file/d/1XsLa1irI_y60hiOi0NGk-8gnCCSQN2N3/view?usp=sharing
+#https://drive.google.com/file/d/1XsLa1irI_y60hiOi0NGk-8gnCCSQN2N3/view?usp=sharing
 
 #Spotify 1 data 
 #From csv file on google drive with shareable link set to anyone can view 
@@ -16,7 +16,7 @@ Spotify_1_csv_data = pd.read_csv(path)
 print (Spotify_1_csv_data)
 
 # %%
-https://docs.google.com/spreadsheets/d/1CeVNC7YBvef2w8pT_0rErfuUxs5iuC5yoYoTSj9evfE/edit?usp=drive_link
+#https://docs.google.com/spreadsheets/d/1CeVNC7YBvef2w8pT_0rErfuUxs5iuC5yoYoTSj9evfE/edit?usp=drive_link
 
 #Spotify 1 data
 #From google sheets on google drive with shareable link set to anyone can view 
@@ -33,7 +33,7 @@ data = pd.read_csv(url)
 print(data)
 
 # %%
-https://drive.google.com/file/d/1XoBIxdGZrnTmmzyaKNS4-I692vtK2q-X/view?usp=sharing
+#https://drive.google.com/file/d/1XoBIxdGZrnTmmzyaKNS4-I692vtK2q-X/view?usp=sharing
 
 #Spotify 2 data 
 
@@ -46,7 +46,7 @@ Spotify_2_csv_data = pd.read_csv(Spotify_2_path)
 print (Spotify_2_csv_data)
 
 # %%
-https://drive.google.com/file/d/1XnjLLT-0W0xYmGgMHWRIwwaqA2WS1Re2/view?usp=sharing
+#https://drive.google.com/file/d/1XnjLLT-0W0xYmGgMHWRIwwaqA2WS1Re2/view?usp=sharing
 
 #Spotify 3 Data
 
@@ -59,7 +59,7 @@ Spotify_3_csv_data = pd.read_csv(Spotify_3_path)
 print (Spotify_3_csv_data)
 
 # %%
-https://drive.google.com/file/d/1XlvC8S3z7a698BzXQ4XoPdIAEzMzk_-9/view?usp=sharing
+#https://drive.google.com/file/d/1XlvC8S3z7a698BzXQ4XoPdIAEzMzk_-9/view?usp=sharing
 
 #Spotify 4 Data
 
