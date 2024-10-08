@@ -144,6 +144,6 @@ height=False, use_container_width=True)
 # %%
 print(st.bar_chart)
 
-streamlit run main.py
+streamlit run For Streamlit.py
 
 
