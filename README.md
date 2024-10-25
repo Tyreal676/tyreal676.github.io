@@ -13,5 +13,7 @@ This repository will host my notebooks where I will copy over the projects I hav
 ### Tools
 
 Language: SQL, Python, R 
+
 Database: MySQL, PostgreSQL, SQLite, REDCap, 
+
 Visualization: PowerBI, Tableau, Looker 
